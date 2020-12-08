@@ -25,7 +25,7 @@ while True:
         num2 = float(input("Podaj drugą liczbę: "))
 
 
-# kod
+# tą część dodałem
         if choice == '1':
             print(add(num1, num2))
         elif choice == '2':
